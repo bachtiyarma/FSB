@@ -1,61 +1,61 @@
 {
-  "brand": {
+  "brands": {
     "file_name": "brands.xlsx",
     "file_type": "excel",
     "data_type" : "master",
     "key_name" : "brand_id",
     "sheet_id": "1Ag8PEBWoffpsIIon4xNRUedxrp2bd-b0"
   },
-  "category": {
+  "categories": {
     "file_name": "categories.xlsx",
     "file_type": "excel",
     "data_type" : "master",
     "key_name" : "category_id",
     "sheet_id": "1-cpMNqgTtdZVBbyCFnil0Nu8qidoVvet"
   },
-  "customer": {
+  "customers": {
     "file_name": "customers.xlsx",
     "file_type": "excel",
     "data_type" : "master",
     "key_name" : "customer_id",
     "sheet_id": "1TZKWnnIwseevEfSor4MO5cXip-7UNXRH"
   },
-  "order_item": {
+  "order_items": {
     "file_name": "order_items.xlsx",
     "file_type": "excel",
     "data_type" : "transaction",
     "key_name" : "order_id",
     "sheet_id": "1BRPqL9jA8EHQbLncGRvM5qgFT1DA1HGk"
   },
-  "order": {
+  "orders": {
     "file_name": "orders.xlsx",
     "file_type": "excel",
     "data_type" : "transaction",
     "key_name" : "order_id",
     "sheet_id": "1knh9SIiPMhedkxbwF66QICmpxb2L0jBJ"
   },
-  "product": {
+  "products": {
     "file_name": "products.xlsx",
     "file_type": "excel",
     "data_type" : "master",
     "key_name" : "product_id",
     "sheet_id": "1rGXfmVDyl8OeukQJtXVxBEMbiowEQl6W"
   },
-  "staff": {
+  "staffs": {
     "file_name": "staffs.xlsx",
     "file_type": "excel",
     "data_type" : "master",
     "key_name" : "staff_id",
     "sheet_id": "10cmVWexAZ0OcNx7hdROGQBkF3bqB09vh"
   },
-  "stock": {
+  "stocks": {
     "file_name": "stocks.xlsx",
     "file_type": "excel",
     "data_type" : "transaction",
     "key_name" : "stock_id",
     "sheet_id": "1_AmYgkC-9E2fz7Kozk-UH0eSzyezFHSt"
   },
-  "store": {
+  "stores": {
     "file_name": "stores.xlsx",
     "file_type": "excel",
     "data_type" : "master",
