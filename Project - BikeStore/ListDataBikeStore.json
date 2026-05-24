@@ -10,8 +10,8 @@
         'sheet_id' : '1-cpMNqgTtdZVBbyCFnil0Nu8qidoVvet'
     },
     'customer' : {
-        'file_name' : 'customers.xlsx', '
-        file_type' : 'excel', 
+        'file_name' : 'customers.xlsx',
+        'file_type' : 'excel', 
         'sheet_id' : '1TZKWnnIwseevEfSor4MO5cXip-7UNXRH'
     },
     'order_item' : {
